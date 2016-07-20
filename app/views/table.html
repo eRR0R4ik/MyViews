@@ -1,0 +1,17 @@
+<div class="col-xs-6 col-md-5" >
+  <div class="table-responsive bord">
+    <h3 class="head-date" id="dateHeader">Date</h3>
+    <table class="table table-striped">
+      <thead class="table-heading">
+        <th>Time</th>
+        <th>Subject</th>
+      </thead>
+      <tbody>
+        <tr ng-repeat="tab in table[foundindex].days[dday].lessons">
+          <td ng-bind="tab.time"></td>
+          <td ng-bind="tab.name"></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

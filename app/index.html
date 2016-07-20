@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en" ng-app="groupApp">
+<head>
+  <meta charset="utf-8">
+  <title>My views</title>
+  <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="bower_components/jquery-ui/themes/base/jquery-ui.css" >
+  <link rel="stylesheet" href="css/style.css"></head>
+</head>
+
+<body>
+  <div class="container">
+      <ng-include src="'views/header.html'"></ng-include>
+    <div class="row">
+      <ng-view></ng-view>
+    </div>
+  </div>
+
+  <script src="bower_components/jquery/dist/jquery.min.js"></script>
+  <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+  <script src="bower_components/jquery-ui/jquery-ui.js"></script>
+  <script src="bower_components/angular/angular.min.js"></script>
+  <script src="bower_components/angular-route/angular-route.min.js"></script>
+  <script src="scripts/controller.js"></script>
+</body>
+</html>

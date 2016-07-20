@@ -1,0 +1,46 @@
+{
+    "groups": [
+	 {
+	 "name": "Java Core OOP",
+	 "snippet": "You will learn about the main Java-programs development tools.",
+	 "groupsize": "8-10 students",
+	 "courseduration": "1 session x 2 hours x 12 times = 24 hours"
+	},
+	 {
+	 "name": "JS Core",
+	 "snippet": "Through the development of web pages and web applications using the language JavaScript.",
+	 "groupsize": "8-12 students",
+	 "courseduration": "1 session x 2 hours x 24 times = 48 hours"
+	},
+	 {
+	 "name": "C# OOP",
+	 "snippet": "During the courseyou will gain the practical skills in object-oriented programs development using C# and by means of .NET library.",
+	 "groupsize": "8-10 students",
+	 "courseduration": "1 session x 2 hours x 12 times = 24 hours"
+	},
+	 {
+	 "name": "ISTQB Practical Testing.",
+	 "snippet": "You will get theoretical knowledge and practical skills in software testing according to recognized ISTQB standards.",
+	 "groupsize": "8-10 students",
+	 "courseduration": "2 session x 2 hours x 12 times = 48 hours"
+	},
+	 {
+	 "name": "HTML5/ CSS3/ JavaScript",
+	 "snippet": "You will learn about the main Java-programs development tools.",
+	 "groupsize": "10-15 students",
+	 "courseduration": "2 session x 2 hours x 12 times = 48 hours"
+	},
+	 {
+	 "name": "iOS",
+	 "snippet": "Development of iPhone/iPad applications.",
+	 "groupsize": "8-10 students",
+	 "courseduration": "3 session x 2 hours x 12 times = 72 hours"
+	},
+	 {
+	 "name": "Database",
+	 "snippet": "Development of relational database using Microsoft SQL Server tools.",
+	 "groupsize": "14 students",
+	 "courseduration": "3 session x 2 hours x 10 times = 60 hours"
+	}
+	 ]
+}
